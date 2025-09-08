@@ -23,7 +23,7 @@ from sklearn import metrics
 #laoding the data from csv file to a Pandas DataFrame
 calories = pd.read_csv('calories.csv')
 
-
+# Kaggle Dataset Integration and Processing Pipeline
 # In[5]:
 
 
@@ -136,9 +136,9 @@ correlation = calories_data.drop(columns=['Gender']).corr()
 
 # In[53]:
 
-
+# Interactive Fitness Analytics Dashboard
 #constructing a heatmap to understand the correlation
-
+# Advanced Machine Learning for Fitness Analytics
 plt.figure(figsize=(10, 10))
 sns.heatmap(correlation, cbar=True, square=True, fmt='.1f', annot=True, annot_kws={'size': 8}, cmap='Blues')
 
@@ -204,7 +204,7 @@ model.fit(X_train,Y_train)
 
 
 # #Evaluation
-
+# Real-Time Calorie Prediction System
 # Prediction on Test Data
 
 # In[45]:
