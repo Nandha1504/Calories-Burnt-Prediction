@@ -138,7 +138,7 @@ correlation = calories_data.drop(columns=['Gender']).corr()
 
 
 #constructing a heatmap to understand the correlation
-
+# Advanced Machine Learning for Fitness Analytics
 plt.figure(figsize=(10, 10))
 sns.heatmap(correlation, cbar=True, square=True, fmt='.1f', annot=True, annot_kws={'size': 8}, cmap='Blues')
 
