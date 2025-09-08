@@ -50,6 +50,7 @@ This project implements a sophisticated machine learning model to predict calori
 | **Dataset Source** | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) |
 | **Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
+
 </div>
 
 ## 📊 Dataset Information
